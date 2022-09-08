@@ -1,0 +1,17 @@
+Uitleg over de bestanden van films en series:
+
+Films:
+  - alle films hebben 1 zelfde bestandtype
+  - een beschrijving
+  - genres
+  - titelnaam
+  - foto/poster
+  - eventueel extra info zoals acteurs, jaar etc.
+
+Series:
+  - alle series hebben 1 zelfde bestandtype
+  - een beschrijving (eventueel bij elke aflevering) 
+  - genres
+  - titelnaam
+  - foto/poster
+  - eventueel extra info zoals acteurs, jaar etc.
