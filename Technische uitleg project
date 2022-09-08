@@ -15,3 +15,5 @@ Series:
   - titelnaam
   - foto/poster
   - eventueel extra info zoals acteurs, jaar etc.
+
+De films/series worden opgeslagen op de server en worden daar uitgelezen. Eventueel via database als dit mogelijk is.
