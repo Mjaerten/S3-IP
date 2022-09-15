@@ -28,49 +28,23 @@ Portfolio en documentatie voor mijn semester 3 van Fontys HBO-ICT
 
 **Full-stack:** You design and build a full stack application using commonly accepted front end (Javascript-based framework) and back end techniques (e.g. Object Relational Mapping) choosing and implementing relevant communication protocols and addressing asynchronous communication issues.
 
-Om deze leeruitkomst aan te kunnen tonen heb ik een ontwerp gemaakt van de applicatie die ik wil gaan bouwen. Zie [C4-model](https://github.com/KevinvdHoogenhof/S3-Portfolio/blob/main/Documentation.md#C4-model) voor het C4 model, wat ik voor deze mijn applicatie heb gemaakt.    
-De verschillende componenten van mijn software kunnen los van elkaar worden ontwikkeld end getest. 
-Verder kun je iedere component in een losse docker container runnen.
+Hoe heb ik deze leeruitkomst behaald:
 
-#### User friendly
-Informatie over hoe ik mijn applicatie user friendly maak is te vinden onder [Documentatie UX](https://github.com/KevinvdHoogenhof/S3-Portfolio/blob/main/Documentation.md#ux)
+#### User friendly:
+
 
 ### Full-stack
 #### Front-end
-Mijn keuzes over de front-end kunnen gevonden worden onder [Front-end development](https://github.com/KevinvdHoogenhof/S3-Portfolio/blob/main/Documentation.md#Front-end-development)
-
-Mijn keuze voor het framework React.js wordt meer uitgelegd onder [Keuze front-end](https://github.com/KevinvdHoogenhof/S3-Portfolio/blob/main/Documentation.md#Keuze-front-end)
-
-De code voor mijn front-end kun je vinden op [Novelsite-frontend](https://github.com/KevinvdHoogenhof/novelsite-frontend)
-
-Ik heb ook nog een tweede front-end gemaakt. Dit is een front-end speciaal voor admin gebruikers.
-Je kunt deze vinden op [Novelsite-frontend-admin](https://github.com/KevinvdHoogenhof/novelsite-frontend-admin)
+keuze front-end
 
 #### Back-end
-Mijn uitleg over mijn keuze van de back-end kun je vinden onder [Back-end development](https://github.com/KevinvdHoogenhof/S3-Portfolio/blob/main/Documentation.md#Back-end-development)
-
-Mijn keuze over mijn ORM en het databehoud kan onder [Data behoud](https://github.com/KevinvdHoogenhof/S3-Portfolio/blob/main/Documentation.md#Data-behoud) worden gevonden.
-
-De back-end code kan gevonden worden op [Novelsite-backend](https://github.com/KevinvdHoogenhof/novelsite-backend)
-
-![image](https://user-images.githubusercontent.com/101703190/170834329-431fcfcf-5880-43fd-8e2d-1b0a3e89da9f.png)
-
-Hierboven is een afbeelding waarin je kunt zien hoe alle componenten draaien in Docker Desktop.
+keuze back-end
 
 #### Groepsproject
-voor het groepsproject hebben wij ook een applicatie gemaakt.
-Ik heb hierbij vooral aan de back-end gewerkt.
-Zo heb ik bijvoorbeeld gewerkt aan de logica die bij de sql database hoort.
-Daarnaast heb ik ook gewerkt aan een groot deel van de logica voor de producten en catogorieen in de nosql database.
-Ik heb voor de catogorieen ook een groot deel van de frontend gemaakt.
-
-De repositories van ons groepsproject kun je hier vinden:
-
-[Groepsproject frontend](https://github.com/kerimcanguney/WOC-Front-End) & [Groepsproject backend](https://github.com/kerimcanguney/WOC-Back-End)
+uitleg groepsproject
 
 #### Conclusie
-Zie: [Reflectie individueel project](https://github.com/KevinvdHoogenhof/S3-Portfolio/blob/main/Reflectie.md#individueel-project) voor mijn reflectie.
-Hierin staat hoe ik terugkijk op het maken van de back/front-end.
+Reflectie op het maken van front- en back-end
 
 [Terug naar de top](#s3-portfolio)
 # Learning outcome 2 Software quality 
