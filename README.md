@@ -190,5 +190,5 @@ conclusie/reflectie op deze leeruitkomst met eventueel een link naar reflectiedo
 [Terug naar de top](#s3-portfolio)
 
 
-#Bronvermelding
+# Bronvermelding
 1. [Lay out van dit document](https://github.com/KevinvdHoogenhof/S3-Portfolio/blob/main/README.md) (hoe de leeruitkomsten zijn uitgetypt).
