@@ -125,7 +125,12 @@ Het concept van Flow is erg belangrijk. Het doel van Flow is dat elke post it zo
 
 
 #### Conclusie
-Conclusie voor scrum met eventuele uitleg van agile manieren samen met Scrum (zoals stand-ups en sprints.)
+In onze groepsproject maken wij gebruik van vooral Scrum, maar ook een beetje van Kanban. We hebben sprints en user stories en daarnaast maken we ook gebruik van een visuele Kanban-bord waarbij user stories worden gebruikt als 'post its'. Hier zijn 2 fotos van de sprint invulling en het Kanban-bord:
+
+![alt text](https://i.postimg.cc/CLP9RH5X/foto-scrum-semester-3.jpg)
+![alt text](https://i.postimg.cc/y8KnYDXt/foto-Kanban-semester-3.jpg)
+
+
 
 [Terug naar de top](#s3-portfolio)
 # Learning outcome 4 CI/CD
