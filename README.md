@@ -78,7 +78,21 @@ uitleg Scrum
 
 
 ##### Lean
-uitleg Lean
+Lean is een aanpak om vooral dingen die geen waarde toevoegen aan het proces te verminderen. Hierbij wordt gekeken op het verminderen van stappen in een proces dat onnodig wordt gemaakt. Door deze stappen aan te pakken en te verminderen of zelfs te elimineren worden er alleen maar stappen gezet die nuttig zijn en waarde toevoegen aan het project.
+
+De Lean methode zorgt dus voor hoge kwaliteit en klanttevredenheid. Lean helpt bij:
+-	Procescyclustijd verminderen
+-	Levertijd van producten of diensten verbeteren
+-	Het verminderen of elimineren van de kans op defecten of het ontstaan van defecten
+
+Lean heeft enkele belangrijke kernwaarden:
+-	Definieer de waarde
+-	Breng de waarde stroom in kaart
+-	Zorg voor de juiste Flow
+-	Maak gebruik van een Pull
+-	Streef naar perfectie
+
+Zodra deze kernwaarden van toepassing zijn, is er een continue verbetering van het proces. Lean is een oneindige methode waardoor er altijd verbetering plaats kan vinden.
 
 
 ##### Kanban
