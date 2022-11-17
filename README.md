@@ -73,8 +73,17 @@ Uitleg agile en het gebruik van Agile in project
 
 #### Agile methodes
 Agile heeft veel methodes die te gebruiken zijn in groepsvorm. Hieronder staan drie voorbeelden van Agile methodes en daar onder de keuze die we als groep hebben gemaakt te gebruiken.
+
 ##### Scrum
-uitleg Scrum
+De scrum methode is een methode waarbij gebruik wordt gemaakt van sprints.
+Sprints zijn korte periodes van bijvoorbeeld 3 weken. Elke sprint heeft taken om af te ronden in die sprint. 
+Scrum wordt gebruikt wanneer de klant nog niet helemaal precies weet hoe bepaalde taken moeten worden aangepakt. Meestal wordt scrum in groepsvorm gebruikt en is er ook een taakverdeling (scrum rollen):
+-	Scrum Master (deze persoon zorgt ervoor dat het team optimaal kan presteren)
+-	Product Owner (deze persoon houdt contact tussen de klant en de developers)
+-	Developers (deze personen maken daadwerkelijk het product)
+
+De belangrijke taak van Product Owner is vooral om de eisen en wensen van de klant de zoeken. Deze eisen en wensen worden dan in vorm van user stories op de backlog gezet. Elke user story heeft prioriteit, dat kan verschillen van lage prioriteit tot hoge prioriteit. In elke sprint wordt ook een sprint backlog gemaakt waar de user stories van de sprint in staan. De Developers kunnen hierdoor per sprint kijken wat er gedaan moet worden. 
+Een sprint begint altijd met een Sprint Planning. Hierbij wordt gepland wat er wordt gedaan in de sprint. De sprint eindigt met een Sprint Review en een Sprint Retrospective Meeting. Hierbij wordt gekeken naar de afgeronde sprint om eventuele problemen of dergelijke aan te kaarten. Bij Retrospective Meeting wordt  gereflecteerd op het team zelf, hoe de samenwerking is gegaan en of er onenigheden zijn binnen de groep.
 
 
 ##### Lean
