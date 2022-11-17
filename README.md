@@ -96,6 +96,7 @@ De eerste stap wordt opgezet door middel van een Kanban-bord, dit bord bestaat u
 3.	“Done” : deze taken zijn afgerond.
 
 Het doel hiervan is dat het erg overzichtelijk is en dat er transparantie is bij het project. Zo kan iedereen zien waar men mee bezig is en wat af is of niet.
+
 Het concept van Flow is erg belangrijk. Het doel van Flow is dat elke post it zo gelijk mogelijk door het systeem moet doorlopen. Hierbij is dus van belang dat elke post it ongeveer dezelfde hoeveelheid werk heeft en dat het daarom allemaal ongeveer even lang duurt om de post its af te ronden.  Dit concept is erg belangrijk en door Flow-statistieken te meten en te verbeteren, kan bijvoorbeeld toekomstige taken die nog gedaan moeten worden veel sneller worden afgehandeld dan daarvoor. Hierdoor kan er meer post its worden afgerond in een kortere tijd. En omdat er altijd plek is voor verbeteringen is dit ook een van de 4 principes.
 
 
