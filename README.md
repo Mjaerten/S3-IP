@@ -125,7 +125,7 @@ Het concept van Flow is erg belangrijk. Het doel van Flow is dat elke post it zo
 
 
 #### Conclusie
-In onze groepsproject maken wij gebruik van vooral Scrum, maar ook een beetje van Kanban. We hebben sprints en user stories en daarnaast maken we ook gebruik van een visuele Kanban-bord waarbij user stories worden gebruikt als 'post its'. Hier zijn 2 fotos van de sprint invulling en het Kanban-bord:
+In ons groepsproject maken wij gebruik van Jira. Jira is een manier om onze agile methodes toe te kunnen passen. We gebruiken hierbij Scrum en Kanban. Hier zijn 2 fotos van de sprint invulling en het Kanban-bord:
 
 ![alt text](https://i.postimg.cc/CLP9RH5X/foto-scrum-semester-3.jpg)
 ![alt text](https://i.postimg.cc/y8KnYDXt/foto-Kanban-semester-3.jpg)
