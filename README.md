@@ -83,6 +83,7 @@ Scrum wordt gebruikt wanneer de klant nog niet helemaal precies weet hoe bepaald
 -	Developers (deze personen maken daadwerkelijk het product)
 
 De belangrijke taak van Product Owner is vooral om de eisen en wensen van de klant de zoeken. Deze eisen en wensen worden dan in vorm van user stories op de backlog gezet. Elke user story heeft prioriteit, dat kan verschillen van lage prioriteit tot hoge prioriteit. In elke sprint wordt ook een sprint backlog gemaakt waar de user stories van de sprint in staan. De Developers kunnen hierdoor per sprint kijken wat er gedaan moet worden. 
+
 Een sprint begint altijd met een Sprint Planning. Hierbij wordt gepland wat er wordt gedaan in de sprint. De sprint eindigt met een Sprint Review en een Sprint Retrospective Meeting. Hierbij wordt gekeken naar de afgeronde sprint om eventuele problemen of dergelijke aan te kaarten. Bij Retrospective Meeting wordt  gereflecteerd op het team zelf, hoe de samenwerking is gegaan en of er onenigheden zijn binnen de groep.
 
 
