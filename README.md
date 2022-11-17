@@ -88,7 +88,9 @@ Kanban is een visueel systeem voor het beheren van werk tijdens het proces.  Hie
 2.	Beperk het werk in uitvoering
 3.	Focus op Flow
 4.	Continue verbetering
+
 De eerste stap wordt opgezet door middel van een Kanban-bord, dit bord bestaat uit een whiteboard en post its. Elke post it wordt gezien als een taak. Op het whiteboard staan dan 3 kolommen:
+
 1.	“To Do” : hier staan alle taken die nog moeten worden gedaan.
 2.	“Doing” : deze taken worden nu uitgevoerd.
 3.	“Done” : deze taken zijn afgerond.
