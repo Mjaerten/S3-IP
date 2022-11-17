@@ -82,7 +82,19 @@ uitleg Lean
 
 
 ##### Kanban
-uitleg Kanban
+
+Kanban is een visueel systeem voor het beheren van werk tijdens het proces.  Hierbij kan je zien hoever je bent met het project. Er zijn 4 centrale principes bij de Kanban methode:
+1.	Visualiseer de workflow
+2.	Beperk het werk in uitvoering
+3.	Focus op Flow
+4.	Continue verbetering
+De eerste stap wordt opgezet door middel van een Kanban-bord, dit bord bestaat uit een whiteboard en post its. Elke post it wordt gezien als een taak. Op het whiteboard staan dan 3 kolommen:
+1.	“To Do” : hier staan alle taken die nog moeten worden gedaan.
+2.	“Doing” : deze taken worden nu uitgevoerd.
+3.	“Done” : deze taken zijn afgerond.
+Het doel hiervan is dat het erg overzichtelijk is en dat er transparantie is bij het project. Zo kan iedereen zien waar men mee bezig is en wat af is of niet.
+Het concept van Flow is erg belangrijk. Het doel van Flow is dat elke post it zo gelijk mogelijk door het systeem moet doorlopen. Hierbij is dus van belang dat elke post it ongeveer dezelfde hoeveelheid werk heeft en dat het daarom allemaal ongeveer even lang duurt om de post its af te ronden.  Dit concept is erg belangrijk en door Flow-statistieken te meten en te verbeteren, kan bijvoorbeeld toekomstige taken die nog gedaan moeten worden veel sneller worden afgehandeld dan daarvoor. Hierdoor kan er meer post its worden afgerond in een kortere tijd. En omdat er altijd plek is voor verbeteringen is dit ook een van de 4 principes.
+
 
 #### Conclusie
 Conclusie voor scrum met eventuele uitleg van agile manieren samen met Scrum (zoals stand-ups en sprints.)
