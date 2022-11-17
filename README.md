@@ -30,21 +30,17 @@ Portfolio en documentatie voor mijn semester 3 van Fontys HBO-ICT
 
 Hoe heb ik deze leeruitkomst behaald:
 
-#### User friendly:
-
-
-### Full-stack
 #### Front-end
-keuze front-end
+Bij Front-end heb ik vooral gezocht naar javascript librabies. Hierbij kwam ik op React.Js uit. React.Js is een library dat ik nog niet eerder heb gebruikt en was vooral benieuwd naar hoe deze library werkt. Daarnaast is mijn groepsproject ook in React dus kan ik dat goed combineren.
 
 #### Back-end
-keuze back-end
+Back-end was voor mij lastig om te kiezen. Ik heb vooral gekeken naar C# en Java. C# omdat ik daar al mee heb gewerkt en Java omdat dit erg op C# lijkt maar toch een andere taal is waardoor ik meer uitdaging heb, daarnaast wil ik ook graag veel leren. Ik heb gekozen voor Java als Back-end met gebruik van Spring-boot en Hibernate als ORM. 
 
 #### Groepsproject
-uitleg groepsproject
+In ons groepsproject maken we gebruik van dezelfde front-end en back-end. Hierbij was de keus vooral omdat iedereen in mijn groep nieuwe dingen willen leren en dat doen we met deze keuzes.
 
 #### Conclusie
-Reflectie op het maken van front- en back-end
+De keus die ik heb gemaakt is vooral gebaseerd op het feit dat ik graag wil leren. Ik was vooral geinteresseerd in Java omdat ik erg benieuwd was naar hoe Java in elkaar zit, daarnaast heb ik ook veel gehoord over java voordat ik de keus had om Java te kunnen kiezen. Bij de front-end heb ik vooral de groep laten kiezen omdat ik eigenlijk niet zoveel verstand heb van front-end. Hierbij wilde de rest vooral React omdat ze bijvoorbeeld Angular niet fijn vinden en omdat React een grote community heeft.
 
 [Terug naar de top](#s3-portfolio)
 # Learning outcome 2 Software quality 
