@@ -1,17 +1,17 @@
-### UI Design
+## UI Design
 
-## Uitleg design
+### Uitleg design
 
 Dit design heb ik gemaakt op basis van streamingdienst Netflix. Het lijkt er erg veel op maar ik vind dat Netflix een gemakkelijk design heeft om te gebruiken en het ziet er goed uit. Dit is dan ook de reden waarom ik mijn design heb gebaseerd op Netflix.
 
 Hieronder heb ik een gif om te laten zien hoe mijn design eruit ziet en (kleine) functionaliteiten te laten zien.
 
 
-## UI Design
+### UI Design
 ![alt text](https://github.com/Mjaerten/S3-IP/blob/main/IP/ui%20design/UI%20Design.gif)
 
 
-## Feedback UI Design
+### Feedback UI Design
 
 Ik heb bij meerdere mensen feedback gevraagd voor mijn design en kreeg dit als feedback:
 
