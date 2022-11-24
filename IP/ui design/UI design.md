@@ -11,4 +11,4 @@ Hieronder staat mijn design.
 
 ### Feedback UI Design
 
-De feedback van mijn design is hetzelfde als bij mijn wireframe. Klik hier om naar mijn wireframe te gaan.
+De feedback van mijn design is hetzelfde als bij mijn wireframe. Klik [hier](https://github.com/Mjaerten/S3-IP/blob/main/IP/ui%20design/Wireframe.md) om naar mijn wireframe te gaan.
