@@ -175,21 +175,23 @@ uitleg wat ethiek is met voorbeelden vanuit mij en op school en hoe je dit in he
 
 **Multiple types of test techniques:** You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.
 
-#### Onderzoek naar verwachtingen van de klant
-Om vooral erachter te komen wat de klant verwacht hebben we onderzoek gedaan naar de requirements van de klant dat we hebben ontvangen in het document. Hierbij hebben wij toen verschillende User Stories gemaakt.
-
-#### User Stories
-Hier staan een aantal User Stories die we hebben opgezet na het lezen en bekijken van het document dat we hebben ontvangen van de klant.
-
-#### Feedback
-Om het project te maken is het erg belangrijk dat het voldoet aan de verwachtingen van de klant. Door middel van feedbackgesprekken te voeren met de klant komen we er steeds beter achter hoe de applicatie in elkaar gaat zitten. Door middel van feedbackgesprekken over bijvoorbeeld de User Stories. Daarbij krijgen we dan feedback dat we toepassen in het project.
-
-#### Verdere onderzoek naar technische kanten
-Onderzocht naar soort database, daarnaast nog technische tekeningen gemaakt en laat zien! (testplan, C4-model, klassendiagram, databasediagram)
+### Design
+Voor mijn individueel project was ik begonnen met een [Wireframe](https://github.com/Mjaerten/S3-IP/blob/main/IP/ui%20design/Wireframe.md) en [UI Design](https://github.com/Mjaerten/S3-IP/blob/main/IP/ui%20design/UI%20design.md). Hierbij staan ook de feedback die ik heb ontvangen.
 
 
-#### Conclusie
-geleerd wat je beste kan maken voor projecten. testplan, C4-model, klassendiagram, databasediagram
+### Requirements
+Bij het groepsproject hebben wij als groep na het lezen van het document (dat we hebben gekregen van onze stakeholder) requirements. Deze requirements hebben we eigenlijk omgezet naar User Stories.
+
+
+### User Stories
+Hier staan een paar User Stories die we hebben gemaakt.
+![alt text](https://i.postimg.cc/DZ0rR4q7/foto-van-user-stories.jpg)
+
+
+### Feedback
+Bij ons groepsproject krijgen we veel feedback en passen we dat ook gelijk toe aan ons project. Ik heb hiervan helaas geen voorbeeld van hoe we het eerst hadden en na de feedback.
+
+Bij mijn individueel project heb ik ook feedback gevraagd voor bijvoorbeeld mijn UI Design en mijn wireframes. De feedback heb ik ook toegepast in mijn project. Klik [hier](https://github.com/Mjaerten/S3-IP/blob/main/IP/ui%20design/Wireframe.md) om naar mijn Wireframe te gaan.
 
 [Terug naar de top](#s3-portfolio)
 # Learning outcome 7 Business processes
