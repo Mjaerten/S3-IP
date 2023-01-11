@@ -67,7 +67,7 @@ LINK TESTPLAN
 **Choose:** You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on well-defined selection criteria and context analyses.
 
 #### Agile
-Uitleg agile en het gebruik van Agile in project
+Agile betekend eigenlijk wendbaar, lenig en flexibel. Het is een manier van denken, organiseren en werken. Hierdoor kunnen organisaties effectief en snel werken. Om te zien of er Agile wordt gewerkt kun je kijken naar 4 belangrijke kenmerken: flexibele strategie, multidisciplinaire teams, korte cycli en visueel werken.
 
 #### Agile methodes
 Agile heeft veel methodes die te gebruiken zijn in groepsvorm. Hieronder staan drie voorbeelden van Agile methodes en daar onder de keuze die we als groep hebben gemaakt te gebruiken.
