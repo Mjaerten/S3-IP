@@ -170,7 +170,7 @@ Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Et
     </details>
     <details>
         <summary>Welke cultuurverschillen zijn er?</summary>
-        Klik hier om cultuurverschillen te zien.
+        Klik [hier](https://github.com/Mjaerten/S3-IP/blob/main/IP/Culturele%20verschillen.pdf) om culturele verschillen te zien.
     </details>
     <details>
         <summary>Eigen ervaring met cultuurverschillen</summary>  
@@ -191,7 +191,7 @@ Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Et
 
 
 #### Ethiek
-uitleg wat ethiek is met voorbeelden vanuit mij en op school en hoe je dit in het groepsproject toepast.
+Klik [hier](https://github.com/Mjaerten/S3-IP/blob/main/IP/TICT%20CANVAS.pdf) om mijn ethiek bestand te zien
 
 [Terug naar de top](#s3-portfolio)
 # Learning outcome 6 Requirements and Design
