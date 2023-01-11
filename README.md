@@ -162,36 +162,30 @@ Conclusie van CI/CD.
 Adapt your communication, working, and behaviour styles to reflect project stakeholders from different cultures;
 
 Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.
-<details>
-    <summary><b>Cultuur</b></summary>
-    <details>
-        <summary>Wat is Cultuur?</summary>
-        Cultuur is dat wat de mens schept. Het begrip staat tegenover "natuur" (dat wat aangeboren is, wat spontaan en zonder menselijk toedoen is ontstaan) en verwijst naar menselijke activiteit en de symbolen die deze activiteit betekenis geven.
-    </details>
-    <details>
-        <summary>Welke cultuurverschillen zijn er?</summary>
-        Klik [hier](https://github.com/Mjaerten/S3-IP/blob/main/IP/Culturele%20verschillen.pdf) om culturele verschillen te zien.
-    </details>
-    <details>
-        <summary>Eigen ervaring met cultuurverschillen</summary>  
-        <p>Ik heb zelf een erg groot cultuurverschil meegemaakt toen ik op vakantie was in Thailand.
-        Als je de Nederlandse cultuur zou vergelijken met Thaise cultuur zie je veel verschillen.</p>
-        <p>In Thailand is erg collectivistisch, maar Nederland totaal niet. In Thailand zijn de mensen vooral gericht op elkaar, en niet op zichzelf zoals in Nederland.</p>
-        <p>Wat mij ook erg opvalt in Thailand is dat de normen en waarden daar ook heel anders zijn. 
-        Want de koning in Thailand wordt bijvoorbeeld gezien als een "god". 
-        Je mag daarom in thailand ook niet op geld staan als briefgeld valt, omdat je dan op de koning staat.
-        Je kunt er zelf celstraf voor krijgen.</p>
-        <p>In Thailand is het ook niet normaal en ook niet de bedoeling om fooi te geven.
-        Fooi in Thailand "bestaat" niet, en is dan ook disrespectvol om te geven als toerist.</p>
-    </details>
+
+### Cultuur
     
+## Wat is Cultuur?
+Cultuur is dat wat de mens schept. Het begrip staat tegenover "natuur" (dat wat aangeboren is, wat spontaan en zonder menselijk toedoen is ontstaan) en verwijst naar menselijke activiteit en de symbolen die deze activiteit betekenis geven.
+    
+## Welke cultuurverschillen zijn er?
+Klik [hier](https://github.com/Mjaerten/S3-IP/blob/main/IP/Culturele%20verschillen.pdf) om culturele verschillen te zien.
+    
+## Eigen ervaring met cultuurverschillen
+<p>Ik heb zelf een erg groot cultuurverschil meegemaakt toen ik op vakantie was in Thailand.
+Als je de Nederlandse cultuur zou vergelijken met Thaise cultuur zie je veel verschillen.</p>
+<p>In Thailand is erg collectivistisch, maar Nederland totaal niet. In Thailand zijn de mensen vooral gericht op elkaar, en niet op zichzelf zoals in Nederland.</p>
+<p>Wat mij ook erg opvalt in Thailand is dat de normen en waarden daar ook heel anders zijn. 
+Want de koning in Thailand wordt bijvoorbeeld gezien als een "god". 
+Je mag daarom in thailand ook niet op geld staan als briefgeld valt, omdat je dan op de koning staat.
+Je kunt er zelf celstraf voor krijgen.</p>
+<p>In Thailand is het ook niet normaal en ook niet de bedoeling om fooi te geven.
+Fooi in Thailand "bestaat" niet, en is dan ook disrespectvol om te geven als toerist.</p>
+   
 
-</details>
+### Ethiek
+Klik [hier](https://github.com/Mjaerten/S3-IP/blob/main/IP/TICT%20CANVAS.pdf) om te kijken hoe ik met ethiek ben omgegaan.
 
-<details>
-    <summary><b>Ethiek</b></summary>
-    Klik [hier](https://github.com/Mjaerten/S3-IP/blob/main/IP/TICT%20CANVAS.pdf) om mijn ethiek bestand te zien.
-</details>
 
 
 [Terug naar de top](#s3-portfolio)
