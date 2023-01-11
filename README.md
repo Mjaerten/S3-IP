@@ -188,10 +188,11 @@ Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Et
 
 </details>
 
+<details>
+    <summary><b>Ethiek</b></summary>
+    Klik [hier](https://github.com/Mjaerten/S3-IP/blob/main/IP/TICT%20CANVAS.pdf) om mijn ethiek bestand te zien.
+</details>
 
-
-#### Ethiek
-Klik [hier](https://github.com/Mjaerten/S3-IP/blob/main/IP/TICT%20CANVAS.pdf) om mijn ethiek bestand te zien
 
 [Terug naar de top](#s3-portfolio)
 # Learning outcome 6 Requirements and Design
