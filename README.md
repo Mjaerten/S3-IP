@@ -163,15 +163,15 @@ Adapt your communication, working, and behaviour styles to reflect project stake
 
 Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.
 
-### Cultuur
+## Cultuur
     
-## Wat is Cultuur?
+### Wat is Cultuur?
 Cultuur is dat wat de mens schept. Het begrip staat tegenover "natuur" (dat wat aangeboren is, wat spontaan en zonder menselijk toedoen is ontstaan) en verwijst naar menselijke activiteit en de symbolen die deze activiteit betekenis geven.
     
-## Welke cultuurverschillen zijn er?
+### Welke cultuurverschillen zijn er?
 Klik [hier](https://github.com/Mjaerten/S3-IP/blob/main/IP/Culturele%20verschillen.pdf) om culturele verschillen te zien.
     
-## Eigen ervaring met cultuurverschillen
+### Eigen ervaring met cultuurverschillen
 <p>Ik heb zelf een erg groot cultuurverschil meegemaakt toen ik op vakantie was in Thailand.
 Als je de Nederlandse cultuur zou vergelijken met Thaise cultuur zie je veel verschillen.</p>
 <p>In Thailand is erg collectivistisch, maar Nederland totaal niet. In Thailand zijn de mensen vooral gericht op elkaar, en niet op zichzelf zoals in Nederland.</p>
@@ -183,7 +183,7 @@ Je kunt er zelf celstraf voor krijgen.</p>
 Fooi in Thailand "bestaat" niet, en is dan ook disrespectvol om te geven als toerist.</p>
    
 
-### Ethiek
+## Ethiek
 Klik [hier](https://github.com/Mjaerten/S3-IP/blob/main/IP/TICT%20CANVAS.pdf) om te kijken hoe ik met ethiek ben omgegaan.
 
 
