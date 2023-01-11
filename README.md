@@ -210,7 +210,7 @@ Hier staan een paar User Stories die we hebben gemaakt.
 
 
 ### Feedback
-Bij ons groepsproject krijgen we veel feedback en passen we dat ook gelijk toe aan ons project. Ik heb hiervan helaas geen voorbeeld van hoe we het eerst hadden en na de feedback.
+Bij ons groepsproject krijgen we veel feedback en passen we dat ook gelijk toe aan ons project. Ik heb hiervan helaas geen voorbeeld van hoe we het eerst hadden en na de feedback. Daarnaast hebben wij in ons groepsproject een project plan gemaakt. Klik [hier](https://github.com/Mjaerten/S3-IP/blob/main/IP/Project%20Plan.pdf) om naar ons project plan te gaan.
 
 Bij mijn individueel project heb ik ook feedback gevraagd voor bijvoorbeeld mijn UI Design en mijn wireframes. De feedback heb ik ook toegepast in mijn project. Klik [hier](https://github.com/Mjaerten/S3-IP/blob/main/IP/ui%20design/Wireframe.md) om naar mijn Wireframe te gaan.
 
@@ -225,10 +225,18 @@ Bij mijn individueel project heb ik ook feedback gevraagd voor bijvoorbeeld mijn
 **Related:** Business processes during which the software that you are developing will be used (business processes that the software must support by fully or partially automating them). or
 Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance).
 
-Link naar business proces van het project en eventuele link naar reflectie daarvan.
+Hieronder staan 2 business processen over mijn groepsproject, specifiek gericht op het maken van een bestelling.
+
+## Business process met onze app
+![alt text](https://i.postimg.cc/4yb8Frxz/Business-process-Maarten-With-our-app.jpg)
+
+## Business process zonder onze app
+![alt text](https://i.postimg.cc/Xq0HLV4j/Business-process-Maarten-without-app.jpg)
 
 #### Conclusie
-kleine uitleg over wat kon beter of ging goed.
+Nadat ik de 2 Business processen heb bekeken viel mij op dat het barpersoneel met onze app minder "werk" hoeft te doen met bestellingen. De app regelt het bestellen en het barpersoneel hoeft dan alleen het eten te brengen naar de tafel. Onze app verbeterd de tijd tussen het bestellen en het voorbereiden van een bestelling, want het barpersoneel moet eerst de bestelling opnemen en daarna dat brengen naar de keuken, terwijl dat als onze app wordt gebruikt, de gebruiker een bestelling plaatst en nog geen seconde later is de bestelling al binnen bij de keuken.
+
+Het enige nadeel van onze app is dat er minder barpersoneel nodig zou zijn, omdat er dan minder taken zijn voor het barpersoneel.
 
 [Terug naar de top](#s3-portfolio)
 # Learning outcome 8 Professional
